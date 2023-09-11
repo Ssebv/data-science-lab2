@@ -1,3 +1,12 @@
+### Integrantes
+
+- Sebastian Allende
+- Gianfranco Astorga
+- Oscar Horta
+
+### Profesor
+    Dario Rojas
+
 ## Dataset: Student Performance
 
 ### Contexto
