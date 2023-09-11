@@ -1,6 +1,6 @@
 ## Dataset: Student Performance
 
-### Contexto...
+### Contexto
 
 Este conjunto de datos se enfoca en el rendimiento estudiantil en la educación secundaria de dos escuelas portuguesas. Proporciona una visión detallada del desempeño académico de los estudiantes y su relación con una variedad de atributos demográficos, sociales y relacionados con la escuela. Los datos se recopilaron a través de informes escolares y cuestionarios.
 
